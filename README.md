@@ -21,6 +21,4 @@
 
 Также есть вариант скачать билиотеки в самом Arduino IDE, перейдя во вкладку «Управление библиотеками».
 ## Схема подключения <a name="3"></a> 
-
-
-
+![123](https://github.com/FuriousMike/GameSpacePirates/blob/main/Images/Scheme.PNG)
