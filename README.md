@@ -17,7 +17,7 @@
 ## Arduino IDE
 Для корректной работы в среде Arduino IDE необходимо закинуть библиотеки в одну из папок:
 * `C:\Program Files (x86)\Arduino\libraries` (для систем под управлением Windows x64)
-* `C:\Program Files (x86)\Arduino\libraries` (для систем под управлением Windows x86)
+* `C:\Program Files\Arduino\libraries` (для систем под управлением Windows x86)
 * `C:\Users\...\AppData\Local\Arduino15\libraries` (бывает, что первые два варианта не работают)
 
 Также есть вариант скачать билиотеки в самом Arduino IDE, перейдя во вкладку «Управление библиотеками».
