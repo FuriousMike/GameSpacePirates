@@ -20,7 +20,7 @@
 * `C:\Program Files\Arduino\libraries` (для систем под управлением Windows x86)
 * `C:\Users\...\AppData\Local\Arduino15\libraries` (бывает, что первые два варианта не работают)
 
-Также есть вариант скачать билиотеки в самом Arduino IDE, перейдя во вкладку «Управление библиотеками».
+Также есть вариант скачать библиотеки в самом Arduino IDE, перейдя во вкладку «Управление библиотеками».
 ## Схема подключения <a name="3"></a> 
 ![123](https://github.com/FuriousMike/GameSpacePirates/blob/main/Images/Scheme.PNG)
 
